@@ -18,9 +18,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+<img src="img_girl.jpg" alt="Girl in a jacket">   > This is a blockquote following a header.
+                                                  >
+                                                  > When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
 
