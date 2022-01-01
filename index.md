@@ -16,11 +16,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-## Header 2
+# Projects
 
-![Octocat](https://www.img.in.th/images/9be045f5f3b5433cc5107b05c136e461.jpg)   > This is a blockquote following a header.
-                                                  >
-                                                  > When something is important enough, you do it even if the odds are not in your favor.
+### Magia the Magician
+
+![Magia the Magician](https://www.img.in.th/images/9be045f5f3b5433cc5107b05c136e461.jpg)
+
+> ผู้เล่นรับบทเป็น ‘มาโอริก’ เด็กหนุ่มชาวนาแห่งเมืองการเกษตรของอาณาจักรอาลาเกเซียผู้ซึ่งมีพรสวรรค์ทางด้านเวทมนตร์ทว่าชีวิตของเขากลับพลิกผันครอบครัวและหมู่บ้านที่เขาอยู่ถูกโจมตีโดยกษัตริย์ทรราชเพียงเพราะเขาบังเอิญครอบครองคัมภีร์โบราณมาโอริกหลบหนีด้วยความยากเย็นพร้อมกับคัมภีร์ที่อยู่ในมือของเขาเขาสาบานกับตัวเองว่าจะล้างแค้นให้กับดวงวิญญาณทุกดวงที่ต้องสูญเสียไปในเหตุการณ้นั้น 
 
 ### Header 3
 
