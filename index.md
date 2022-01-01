@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+# About me
+
+สวัสดีครับชื่อเท็นครับ
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -9,10 +12,6 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# About me
-
-สวัสดีครับชื่อเท็นครับ
 
 ## Header 2
 
