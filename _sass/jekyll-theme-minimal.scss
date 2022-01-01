@@ -14,13 +14,8 @@ h1, h2, h3, h4, h5, h6 {
   margin:0 0 20px;
 }
 
-table.skilltable{
-  margin-top: 20px;
-  text-align: center;
-}
-
-.skilltable, td{
-  margin-bottom: 10px;
+table.skilltable, td{
+  margin-bottom: 20px;
   text-align: center;
 }
 
@@ -100,7 +95,7 @@ table {
 }
 
 th, td {
-  text-align:left;
+  text-align:center;
   padding:5px 10px;
   border-bottom:1px solid #e5e5e5;
 }
@@ -149,7 +144,7 @@ ul.downloads {
   border:1px solid #e0e0e0;
   margin-left:40px;
   margin-top:20px;
-  width:150;
+  width:270;
 }
 
 .downloads li {
