@@ -26,7 +26,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ![Magia the Magician](https://www.img.in.th/images/4294d2a8210f1f89bc6b1aa65987efa2.png)
 
->ผู้เล่นรับบทเป็น ‘มาโอริก’ เด็กหนุ่มชาวนาแห่งเมืองการเกษตรของอาณาจักรอาลาเกเซียผู้ซึ่งมีพรสวรรค์ทางด้านเวทมนตร์ทว่าชีวิตของเขากลับพลิกผันครอบครัวและหมู่บ้านที่เขาอยู่ถูกโจมตีโดยกษัตริย์ทรราชเพียงเพราะเขาบังเอิญครอบครองคัมภีร์โบราณมาโอริกหลบหนีด้วยความยากเย็นพร้อมกับคัมภีร์ที่อยู่ในมือของเขาเขาสาบานกับตัวเองว่าจะล้างแค้นให้กับดวงวิญญาณทุกดวงที่ต้องสูญเสียไปในเหตุการณ้นั้น 
+>ผู้เล่นรับบทเป็น ‘มาโอริก’ เด็กหนุ่มชาวนาแห่งเมืองการเกษตรของอาณาจักรอาลาเกเซียผู้ซึ่งมีพรสวรรค์ทางด้านเวทมนตร์ทว่าชีวิตของเขากลับพลิกผันครอบครัวและหมู่บ้านที่เขาอยู่ถูกโจมตีโดยกษัตริย์ทรราชเพียงเพราะเขาบังเอิญครอบครองคัมภีร์โบราณมาโอริกหลบหนีด้วยความยากเย็นพร้อมกับคัมภีร์ที่อยู่ในมือของเขาเขาสาบานกับตัวเองว่าจะล้างแค้นให้กับดวงวิญญาณทุกดวงที่ต้องสูญเสียไปในเหตุการณ้นั้น [Link](https://7echit.itch.io/magiathemagician)
 
 
 &nbsp;      
@@ -95,103 +95,3 @@ Turn-based       
 ![Gimme More Time](https://www.img.in.th/images/044b163dd94aa920b6921c084853b517.png)
 
 >Gimme More Time เป็นเกม 2D Turn-Based บริหารชีวิต ตัวเกมเล่าถึงเมืองวันเดอร์เวิลด์ (Wonder World) เมืองที่มีฟาร์มขนาดใหญ่ถึง 2 ฟาร์ม เจ้าของฟาร์มแห่งใหญ่ทั้ง 2 คือเอ็มม่าและลูอิส โดยผู้เล่นจะได้รับบทเป็นเอ็มม่าหรือลูอิส ผู้เล่นทั้ง 2 คนจะต้องแข่งกันบริหารฟาร์มในเวลาที่จำกัด ทั้งทำสวน ดูแลไร่พืชผักต่าง ๆ รวมถึงการเลี้ยงสัตว์ เมื่อครบจำนวน Turn ที่ผู้เล่นเลือกไว้ตอนต้นเกม ผู้เล่นที่บริหารฟาร์มได้ดีที่สุดจะเป็นผู้ชนะ
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
