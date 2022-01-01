@@ -18,6 +18,13 @@ p, ul, ol, table, pre, dl {
   margin:0 0 5px;
 }
 
+ul.skill {
+    list-style-type: none;
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+}
+
 h1, h2, h3 {
   line-height:1.1;
 }
