@@ -19,8 +19,9 @@ table.skilltable{
   text-align: center;
 }
 
-.skilltable{
+.skilltable, td{
   margin-bottom: 10px;
+  text-align: center;
 }
 
 p, ul, ol, table, pre, dl {
