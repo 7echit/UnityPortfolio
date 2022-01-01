@@ -18,7 +18,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Header 2
 
-<img src="img_girl.jpg" alt="Girl in a jacket">   > This is a blockquote following a header.
+![Octocat](https://www.img.in.th/images/9be045f5f3b5433cc5107b05c136e461.jpg)   > This is a blockquote following a header.
                                                   >
                                                   > When something is important enough, you do it even if the odds are not in your favor.
 
