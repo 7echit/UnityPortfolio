@@ -19,7 +19,7 @@ p, ul, ol, table, pre, dl {
 }
 
 ul{
-  margin-left: 50px;
+  padding-left: 20px;
 }
 
 h1, h2, h3 {
@@ -211,6 +211,7 @@ footer {
   width:270px;
   float:left;
   bottom:50px;
+  position:static;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
