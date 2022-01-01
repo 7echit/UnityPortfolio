@@ -21,8 +21,8 @@ p, ul, ol, table, pre, dl {
 ul.skill {
     list-style-type: none;
     columns: 2;
-    -webkit-columns: 2;
-    -moz-columns: 2;
+    -webkit-columns: 1;
+    -moz-columns: 1;
 }
 
 h1, h2, h3 {
@@ -140,7 +140,7 @@ ul.downloads {
   background: #f4f4f4;
   border-radius:5px;
   border:1px solid #e0e0e0;
-  margin-left:35px;
+  margin-left:40px;
   width:180px;
 }
 
