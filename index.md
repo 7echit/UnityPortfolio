@@ -92,5 +92,6 @@ Turn-based       
 
 &nbsp;
 * * *
-This project is maintained by <a href="{{ site.github.owner_url }}">7echit</a>
-<small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small>
+<sub>
+This project is maintained by 7echit <br>
+Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a> </sup>
