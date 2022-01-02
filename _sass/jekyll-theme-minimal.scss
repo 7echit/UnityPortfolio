@@ -92,7 +92,7 @@ pre {
 table {
   width:100%;
   border-collapse:collapse;
-  border-radius: 25px;
+  border-radius: 0px;
   border: 1px solid white;
   padding: 20px;
   width: 200px;
@@ -103,6 +103,7 @@ table {
 th, td {
   text-align:center;
   padding:5px 10px;
+  margin-bottom:5px;
   border: 1px solid white;
 }
 
