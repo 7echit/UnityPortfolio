@@ -8,7 +8,7 @@
 &nbsp;
 # Projects 🗃️
 * * *
-&nbsp;
+
 - ## Student Projects
     
 ### Magia the Magician 
