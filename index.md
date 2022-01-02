@@ -10,8 +10,7 @@
 * * *
 &nbsp;
 - ## Student Projects
-
-&nbsp;     
+    
 ### Magia the Magician 
 2D Puzzle, Single-player, Adventure, Role-playing
 
@@ -60,7 +59,6 @@ Pixel 2D RPG
 &nbsp; &nbsp; 
 - ## Gamejam Projects
 
-&nbsp;  
 ### Namo
 Pixel 2D Tower Defending
 
@@ -80,8 +78,7 @@ Pixel 2D Tower Defending
 
 &nbsp;
 - ## NSC Project
-
-&nbsp;        
+   
 ### Gimme More Time
 Turn-based       
 
