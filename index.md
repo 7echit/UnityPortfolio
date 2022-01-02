@@ -89,9 +89,7 @@ Turn-based       
 
 >Gimme More Time เป็นเกม 2D Turn-Based บริหารชีวิต ตัวเกมเล่าถึงเมืองวันเดอร์เวิลด์ (Wonder World) เมืองที่มีฟาร์มขนาดใหญ่ถึง 2 ฟาร์ม เจ้าของฟาร์มแห่งใหญ่ทั้ง 2 คือเอ็มม่าและลูอิส โดยผู้เล่นจะได้รับบทเป็นเอ็มม่าหรือลูอิส ผู้เล่นทั้ง 2 คนจะต้องแข่งกันบริหารฟาร์มในเวลาที่จำกัด ทั้งทำสวน ดูแลไร่พืชผักต่าง ๆ รวมถึงการเลี้ยงสัตว์ เมื่อครบจำนวน Turn ที่ผู้เล่นเลือกไว้ตอนต้นเกม ผู้เล่นที่บริหารฟาร์มได้ดีที่สุดจะเป็นผู้ชนะ **[Link](https://7echit.itch.io/gimmemoretime)**
 
-
-&nbsp;
 * * *
 <sub>
 This project is maintained by 7echit <br>
-Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a> </sup>
+Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a>
