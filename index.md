@@ -14,6 +14,7 @@ layout: default
 * * *
 - ## Student Projects
 
+&nbsp;     
 ### Magia the Magician 
 2D Puzzle, Single-player, Adventure, Role-playing
 
@@ -57,10 +58,10 @@ Pixel 2D RPG
 
 >FlyingKnight เป็นเกมที่มีต้นแบบมาจาก Cookie run และ Flappy bird รวมกัน ผู้เล่นจะได้รับบทบาทเป็นอัศวินขี่ม้าที่บินได้โดยการเล่นคือ กดปุ่ม Spacebar ยิงลูกธนูและกดปุ่ม W รัวๆเพื่อบิน เป้าหมายของเกมนี้คือการเก็บคะแนนให้ได้มากที่สุด ภายในเกมจะมีศัตรูเป็น Slime สีดำ และมี Potion ไว้เพิ่มเลือดให้ผู้เล่น **[Link](https://7echit.itch.io/flyingknight)**
 
-
-&nbsp;
+&nbsp; &nbsp; &nbsp;
 - ## Gamejam Projects
 
+&nbsp;  
 ### Namo
 Pixel 2D Tower Defending
 
@@ -78,10 +79,10 @@ Pixel 2D Tower Defending
 
 >ภายในเกมผู้เล่นจะได้รับบทบาทเป็น Ginju ที่ต้องคอยฟาดฟันสิ่งของที่ลอยมาและหลบสิ่งกีดขวางที่อยู่บนท้องถนน เป้าหมายของเกมนี้คือเก็บคะแนนจากที่สิ่งของที่ลอยมาโดยการฟันให้โดน เกมจะทำการเริ่มเล่นใหม่ทันทีหากผู้เล่นโดนของแม้แต่ชิ้นเดียว **[Link](https://7echit.itch.io/slash-king)**
 
-
 &nbsp;
 - ## NSC Project
-      
+
+&nbsp;        
 ### Gimme More Time
 Turn-based       
 
