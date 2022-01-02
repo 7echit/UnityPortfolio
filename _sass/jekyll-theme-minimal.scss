@@ -14,11 +14,6 @@ h1, h2, h3, h4, h5, h6 {
   margin:0 0 20px;
 }
 
-table.skilltable, td{
-  margin-bottom: 20px;
-  text-align: center;
-}
-
 div.divtable{
   margin-top: 30px;
 } 
@@ -114,6 +109,10 @@ dt {
 
 th {
   color:#444;
+}
+
+table.skilltable, td{
+  margin-bottom: 20px;
 }
 
 img {
