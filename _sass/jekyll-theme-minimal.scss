@@ -38,12 +38,6 @@ h3, h4, h5, h6 {
   color:#494949;
 }
 
-
-#job {
-  margin-top: 10px;
-}
-
-
 a {
   color:#267CB9;
   text-decoration:none;
@@ -99,10 +93,11 @@ table {
 th, td {
   text-align:center;
   padding:7px;
+  border-right: 1px solid #e0e0e0;
 }
 
 table.skilltable{
-	margin-bottom = 5px;
+   margin-bottom = 5px;
 }
 
 dt {
