@@ -14,7 +14,7 @@
 ### Magia the Magician 
 2D Puzzle, Single-player, Adventure, Role-playing
 
-![Magia the Magician](https://www.img.in.th/images/4294d2a8210f1f89bc6b1aa65987efa2.png)
+![Magia the Magician](https://lh5.googleusercontent.com/d/1om9F8-ozYg_Tt3J7lNpofaUayBS5NJUj)
 
 >ผู้เล่นรับบทเป็น ‘มาโอริก’ เด็กหนุ่มชาวนาแห่งเมืองการเกษตรของอาณาจักรอาลาเกเซียผู้ซึ่งมีพรสวรรค์ทางด้านเวทมนตร์ทว่าชีวิตของเขากลับพลิกผันครอบครัวและหมู่บ้านที่เขาอยู่ถูกโจมตีโดยกษัตริย์ทรราชเพียงเพราะเขาบังเอิญครอบครองคัมภีร์โบราณมาโอริกหลบหนีด้วยความยากเย็นพร้อมกับคัมภีร์ที่อยู่ในมือของเขา เขาสาบานกับตัวเองว่าจะล้างแค้นให้กับดวงวิญญาณทุกดวงที่ต้องสูญเสียไปในเหตุการณ์นั้น **[Link](https://7echit.itch.io/magiathemagician)**
 
